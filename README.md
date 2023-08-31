@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://github.com/mahee510/mahee510/blob/main/dev.json" alt="Animated Header"/>
 </p>
-<p align="center">
-  <img src="https://github.com/mahee510/mahee510/blob/main/dev.json" alt="Animated Header" width="500"/>
-</p>
+
 # 👋 Hey, I'm Mahendran K - Mobile Developer! 📱✨
 
 Welcome to my mobile-centric GitHub profile! I'm a passionate mobile app developer and UI/UX enthusiast, dedicated to crafting user-friendly and visually appealing mobile experiences.
