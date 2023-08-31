@@ -2,7 +2,7 @@
 
 <!-- Header with Animation -->
 <p align="center">
-  <img src="[link-to-your-animated-header-gif](https://github.com/mahee510/mahee510/blob/main/dev.json)" alt="Animated Header"/>
+  <img src="https://github.com/mahee510/mahee510/blob/main/dev.json" alt="Animated Header"/>
 </p>
 
 # 👋 Hey, I'm Mahendran K - Mobile Developer! 📱✨
