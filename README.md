@@ -1,6 +1,6 @@
 <!-- Header with Animation -->
 <p align="center">
-  <img src="https://github.com/mahee510/mahee510/blob/main/dev.json" alt="Animated Header"/>
+  <img src="https://raw.githubusercontent.com/mahee510/mahee510/main/dev.json" alt="Animated Header"/>
 </p>
 
 # 👋 Hey, I'm Mahendran K - Mobile Developer! 📱✨
