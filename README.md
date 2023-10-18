@@ -1,11 +1,11 @@
 <!-- Header with Animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://gist.github.com/mahee510/206a936d74fd93359d2f38d2a54410e9" alt="Animated Header"/>
-</p>
+</p> -->
 
 # 👋 Hey, I'm Mahendran K - Mobile Developer! 📱✨
 
-Welcome to my mobile-centric GitHub profile! I'm a passionate mobile app developer and UI/UX enthusiast, dedicated to crafting user-friendly and visually appealing mobile experiences.
+<!-- Welcome to my mobile-centric GitHub profile! I'm a passionate mobile app developer and UI/UX enthusiast, dedicated to crafting user-friendly and visually appealing mobile experiences. -->
 <!--
 ## 🌟 About Me
 
